@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, 
+Names Cristian, I am currently working as a mobile design engineer
+
 <a href="https://app.daily.dev/keklBub"><img src="https://api.daily.dev/devcards/cd832162178c4567850739b3943e0063.png?r=1z0" width="400" alt="Cristian Villanueva's Dev Card"/></a>
 
 <!--
