@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cristia27764954" target="blank"><img src="https://img.shields.io/twitter/follow/cristia27764954?logo=twitter&style=for-the-badge" alt="cristia27764954" /></a> </p>
 
-- 🔭 I’m currently working on [Lingo.app [⚠️ under construction]](https://x.com/use_lingo?s=20)
+- 🔭 I’m currently building [Lingo.app [⚠️ under construction]](https://x.com/use_lingo?s=20)
 
 - 🌱 I’m currently learning **LLM finetuning, open source Ai tooling**
 
